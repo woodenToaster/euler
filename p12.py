@@ -1,7 +1,4 @@
-from collections import defaultdict
 from functools import reduce
-
-factors = defaultdict(list)
 
 
 def triangle_number():
